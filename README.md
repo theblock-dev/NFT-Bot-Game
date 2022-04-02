@@ -1,5 +1,5 @@
 # NFT-Bot-Game
-Sam's NFT Bot Game...Mint, Breed new Bots by mising 2 Bots...
+Sam's NFT Bot Game...Mint, Breed new Bots by mixing 2 Bots...
 
 Admin can mint new Bots....Players can buy these bots, they also can breed new BOTs by combining 2 existing bots, the new BOT will have difference characteristics. 
 
